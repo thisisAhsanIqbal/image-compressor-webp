@@ -1,9 +1,11 @@
 # 🖼️ Image Compressor & WebP Converter
-![GitHub stars](https://img.shields.io/github/stars/muhammad-ahsan-iqbal/image-compressor-webp?style=flat-square)
-![GitHub forks](https://img.shields.io/github/forks/muhammad-ahsan-iqbal/image-compressor-webp?style=flat-square)
-![License](https://img.shields.io/github/license/muhammad-ahsan-iqbal/image-compressor-webp?style=flat-square)
+
+![GitHub stars](https://img.shields.io/github/stars/thisisAhsanIqbal/image-compressor-webp?style=flat-square)
+![GitHub forks](https://img.shields.io/github/forks/thisisAhsanIqbal/image-compressor-webp?style=flat-square)
+![License](https://img.shields.io/github/license/thisisAhsanIqbal/image-compressor-webp?style=flat-square)
 ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg?style=flat-square)
-![CustomTkinter](https://img.shields.io/badge/Built%20With-CustomTkinter-%230073e6?style=flat-square)
+![Built With](https://img.shields.io/badge/Built%20With-CustomTkinter-%230073e6?style=flat-square)
+
 
 
 ---
